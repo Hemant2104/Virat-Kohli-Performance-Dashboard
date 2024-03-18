@@ -4,4 +4,5 @@ Welcome to the Power BI dashboard showcasing the performance of one of cricket's
 2) Total Matches vs Opponents Donut Chart: The donut chart displays the total number of matches Virat Kohli has played against each opponent. It offers a quick insight into Kohli's exposure and experience against different teams.
 3) Format Slicer: We can dynamically filter the dashboard based on three cricket formats: Test, One Day International (ODI), and Twenty20 International (T20I). This feature allows us to delve into Kohli's performance across different formats.
 4) Runs by Year Area Chart: This visualization showcases Virat Kohli's runs scored over the years across all formats. The area chart offers a visual representation of Kohli's consistency and performance trajectory over time.
+
 Through this Power BI dashboard, cricket enthusiasts and analysts can gain valuable insights into Virat Kohli's batting performances, his dominance against specific opponents, and his evolution as one of the finest batsmen in the world across different formats of the game
